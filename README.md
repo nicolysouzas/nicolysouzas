@@ -18,9 +18,9 @@
   <a href="https://www.linkedin.com/in/nicoly-souza-40b8bb2a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <div>
-  <a href="https://nicolysouzas.github.io/meu-curriculo/ "><img align="center" alt= height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg'></a>
+  <a href="https://nicolysouzas.github.io/ "><img align="center" alt= height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg'></a>
   </div>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?nicolysouzas=anuraghazra&show_icons=true&theme=transparent)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?nicolysouzas=anuraghazra&showicons=true&theme=transparent)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?nicolysouzas=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?nicolysouzas=anuraghazra&showicons=true&theme=dracula)
