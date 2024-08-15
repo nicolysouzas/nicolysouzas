@@ -21,6 +21,5 @@
   <a href="https://nicolysouzas.github.io/ "><img align="center" alt= height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg'></a>
   </div>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?nicolysouzas=anuraghazra&showicons=true&theme=transparent)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?nicolysouzas=anuraghazra&showicons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolysouzas&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolysouza&show_icons=true&theme=dracula)
