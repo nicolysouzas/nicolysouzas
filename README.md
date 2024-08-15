@@ -4,6 +4,7 @@
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas;
 - 👩🏻‍💻 Sou tecnica em informatica pelo IFSP-BRA;
 - 💡 Desenvolvedora do projeto "Mappy";
+- 💻<a href="https://nicolysouzas.github.io/">Acesse meu site</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
